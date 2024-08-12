@@ -8,7 +8,7 @@
   "license": "ISC",
   "description": "",
   "workspaces": [
-    "packages/*",
-    "apps/*"
+    "apps/react-email",
+    "apps/astro"
   ]
 }
